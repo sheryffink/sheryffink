@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sheryffink
-- 👀 I’m interested in Machine Learning and intuitive approach in programming
+- 👋 Hi, I’m Sherrif Issaka Akparibo
+- 😎 I’m interested in Machine Learning and intuitive approach in programming
 - 🌱 I’m currently learning data structures and algorithms with a litlle ML
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me : send me an email sherrif.akparibo@a2sv.org
